@@ -1,4 +1,4 @@
-**/script.js**
+
 
 // Array of background colors to change
 const colors = ["#FF5733", "#33FF57", "#3357FF", "#FF33A1", "#FFD700"];
